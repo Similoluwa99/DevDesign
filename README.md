@@ -62,3 +62,4 @@ No build step or dependencies required!
 ## 📄 License
 
 MIT License. Free to use, modify, and distribute.
+
